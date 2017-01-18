@@ -5,3 +5,7 @@
 ## Hello world, I made some more changes 
 
 ## What next?
+
+## Git stash
+
+## Branches everywhere branches
